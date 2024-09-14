@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atzaev.github.io/pjA/sitemap.pjA.gz
